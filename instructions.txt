@@ -1,0 +1,15 @@
+Tässä on ohjetiedosto tämän ohjelman käyttämiselle.
+Shakkia pelataan niin, että valkoinen aloittaa,
+joka näkyy ikkunan yläosassa. Klikkaamalla jotain
+nappulaa pelilaudalla, ilmestyy punaisella korostettuna
+kyseisen nappulan mahdolliset liikkeet. Kun siirto on
+tehty on mustan vuoro. Ohjelma toimii tässä tilanteessa
+samalla tavalla, että yläosassa näkyy, että kenen vuoro on,
+sekä mahdolliset liikkeet ilmestyvät klikkaamalla jotain
+nappulaa. Ohjelmassa pätee normaalit shakin säännöt, joita
+on hieman muokattu vastaamaan tehtävänantoa. Peli loppuu,
+kun vastapuolen kuningas on napattu. Tällöin ohjelma
+ilmoittaa voittajan, ja voit valita, että aloitako pelin
+uudestaan (reset-painikkeella), jonka voi myös tehdä kesken
+pelin, vai lopetatko (quit-painikkeella). Tällöin graafisen
+käyttöliittymän ikkuna sulkeutuu.
